@@ -4,6 +4,12 @@ About the Project
 
 Charity is a decentralized platform that embodies the spirit of Thanksgiving by enabling donors to contribute Ether to registered and verified charitable causes. Charities can register themselves, and upon verification by the trusted admin, they become eligible to receive donations from generous participants. When donors make a donation, they receive a unique NFT as a donation receipt, commemorating their contribution. The NFT's metadata includes the donor's address, the date of the donation, and the amount donated.
 
+## Security audit
+I did the security audit of the project and and wrote a report about it.
+```
+Audit-Report.pdf
+```
+
 ## Actors
 
 - Admin (Trusted) - Can verify registered charities.

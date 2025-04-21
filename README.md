@@ -40,9 +40,9 @@ Tokens: - ETH - ERC721
 Build:
 
 ```bash
-git clone https://github.com/Cyfrin/2024-11-giving-thanks.git
+https://github.com/Timona371/Charity.git
 
-cd 2024-11-giving-thanks
+cd Charity
 
 forge build
 ```
